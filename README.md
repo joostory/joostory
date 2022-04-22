@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=joostory)
+![](https://github-readme-stats.vercel.app/api?username=joostory&show_icons=true&theme=dracula&border_radius=10)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joostory&layout=compact&theme=dracula&border_radius=10)
